@@ -3,4 +3,4 @@
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
-puts "Changing stuff"
+puts "Another"
